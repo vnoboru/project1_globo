@@ -1,0 +1,21 @@
+:root {
+  --primary-title-color: #c3170c;
+  --secondary-title-color: #1e4b9b;
+  --tertiary-title-color: #006766;
+  --quaternary-title-color: #07aa47;
+  --quinary-title-color: #e3662b;
+  --senary-title-color: #fb0735;
+  --septenary-title-color: #ff75bb;
+  --octonary-title-color: #ec7d00;
+  --ninth-title-color: #323333;
+  --tenth-title-color: #a81d83;
+
+  --main-news-color: #c4160c;
+
+  --subtitle-color: #303134;
+  --secondary-news-color: #cb342a;
+  --secondary-subtitle-color: #2f3134;
+
+  --additional-news-color1: #16ae54;
+  --additional-news-color2: #ec8006;
+}

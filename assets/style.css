@@ -1,0 +1,91 @@
+@import url("variables.css");
+
+* {
+  font-family: "Encode Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  text-align: center;
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header span {
+  display: block;
+  margin-bottom: 10px;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  font-size: 24px;
+  transition: color 0.3s ease, transform 0.3s ease, filter 0.3s ease;
+}
+
+header nav ul li a:hover {
+  transform: scale(1.1);
+  filter: brightness(0.8);
+}
+
+.color-1 a {
+  color: var(--primary-title-color);
+}
+
+.color-2 a {
+  color: var(--secondary-title-color);
+}
+
+.color-3 a {
+  color: var(--tertiary-title-color);
+}
+
+.color-4 a {
+  color: var(--quaternary-title-color);
+}
+
+.color-5 a {
+  color: var(--quinary-title-color);
+}
+
+.color-6 a {
+  color: var(--senary-title-color);
+}
+
+.color-7 a {
+  color: var(--septenary-title-color);
+}
+
+.color-8 a {
+  color: var(--octonary-title-color);
+}
+
+.color-9 a {
+  color: var(--ninth-title-color);
+}
+
+.color-10 a {
+  color: var(--tenth-title-color);
+}
+
+footer {
+  background-color: #333333;
+  color: white;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
