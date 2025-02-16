@@ -13,11 +13,14 @@
 ## 🛠 How to run the project
 
 ### 1. Clone the Repository
-First, clone the repository to your computer. Open the terminal or command prompt and run the following command:
+First, clone the repository to your computer. Open the terminal, Command Prompt, or PowerShell and run the following command:
 
 ```bash
 git clone https://github.com/vnoboru/project1_globo.git
 ```
+⚠ **If an error appears saying that git is not recognized, you need to install Git first.** You can download it from the official website: [Download Git](https://git-scm.com/downloads).
+
+
 
 ### 2. Open the Project in Visual Studio Code
 1. Open **Visual Studio Code**.
